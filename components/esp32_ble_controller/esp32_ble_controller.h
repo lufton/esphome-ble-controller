@@ -6,6 +6,7 @@
 
 #include <BLEServer.h>
 
+#include "esphome/core/component.h"
 #include "esphome/core/entity_base.h"
 #include "esphome/core/controller.h"
 #include "esphome/core/defines.h"
